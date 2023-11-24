@@ -1,0 +1,8 @@
+h2{
+    color: #f46f3f;
+    font-family: 'Dancing Script', cursive;
+
+    display: flex;
+    justify-content: center;
+    font-size: 100px;
+}
